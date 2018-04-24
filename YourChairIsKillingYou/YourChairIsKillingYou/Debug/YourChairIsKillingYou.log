@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Source.cpp
+c:\users\aleskipp\documents\visual studio 2017\projects\yourchairiskillingyou\yourchairiskillingyou\source.cpp(131): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aleskipp\documents\visual studio 2017\projects\yourchairiskillingyou\yourchairiskillingyou\source.cpp(137): warning C4101: 'search': unreferenced local variable
+  YourChairIsKillingYou.cpp
+  Generating Code...
+  YourChairIsKillingYou.vcxproj -> C:\Users\aleskipp\Documents\Visual Studio 2017\Projects\YourChairIsKillingYou\Debug\YourChairIsKillingYou.exe
